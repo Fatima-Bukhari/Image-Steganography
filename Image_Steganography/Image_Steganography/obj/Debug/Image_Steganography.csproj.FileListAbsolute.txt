@@ -1,0 +1,9 @@
+C:\Users\Fatima Bukhari\Desktop\gitcourserepository\Ecommerce\Image_Steganography\Image_Steganography\bin\Debug\Image_Steganography.exe.config
+C:\Users\Fatima Bukhari\Desktop\gitcourserepository\Ecommerce\Image_Steganography\Image_Steganography\bin\Debug\Image_Steganography.exe
+C:\Users\Fatima Bukhari\Desktop\gitcourserepository\Ecommerce\Image_Steganography\Image_Steganography\bin\Debug\Image_Steganography.pdb
+C:\Users\Fatima Bukhari\Desktop\gitcourserepository\Ecommerce\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.csprojResolveAssemblyReference.cache
+C:\Users\Fatima Bukhari\Desktop\gitcourserepository\Ecommerce\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.Form1.resources
+C:\Users\Fatima Bukhari\Desktop\gitcourserepository\Ecommerce\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.Properties.Resources.resources
+C:\Users\Fatima Bukhari\Desktop\gitcourserepository\Ecommerce\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.csproj.GenerateResource.Cache
+C:\Users\Fatima Bukhari\Desktop\gitcourserepository\Ecommerce\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.exe
+C:\Users\Fatima Bukhari\Desktop\gitcourserepository\Ecommerce\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.pdb

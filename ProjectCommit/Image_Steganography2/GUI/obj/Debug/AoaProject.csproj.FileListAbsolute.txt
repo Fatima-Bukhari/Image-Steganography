@@ -1,0 +1,28 @@
+c:\users\shiza\documents\visual studio 2015\Projects\AoaProject\AoaProject\bin\Debug\AoaProject.exe.config
+c:\users\shiza\documents\visual studio 2015\Projects\AoaProject\AoaProject\bin\Debug\AoaProject.exe
+c:\users\shiza\documents\visual studio 2015\Projects\AoaProject\AoaProject\bin\Debug\AoaProject.pdb
+c:\users\shiza\documents\visual studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.csprojResolveAssemblyReference.cache
+c:\users\shiza\documents\visual studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.Login.resources
+c:\users\shiza\documents\visual studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.Properties.Resources.resources
+c:\users\shiza\documents\visual studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.SignUp.resources
+c:\users\shiza\documents\visual studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.csproj.GenerateResource.Cache
+c:\users\shiza\documents\visual studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.exe
+c:\users\shiza\documents\visual studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.pdb
+c:\users\shiza\documents\visual studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.Choices.resources
+c:\users\shiza\documents\visual studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.EncodeForm.resources
+C:\Users\Shiza\Documents\Visual Studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.DecodeImg.resources
+C:\Users\Shiza\Documents\Visual Studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.KeyForm.resources
+C:\Users\Fatima Bukhari\Documents\Visual Studio 2015\Projects\AoaProject\AoaProject\bin\Debug\AoaProject.exe.config
+C:\Users\Fatima Bukhari\Documents\Visual Studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.exe
+C:\Users\Fatima Bukhari\Documents\Visual Studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.pdb
+C:\Users\Fatima Bukhari\Documents\Visual Studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.csprojResolveAssemblyReference.cache
+C:\Users\Fatima Bukhari\Documents\Visual Studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.Choices.resources
+C:\Users\Fatima Bukhari\Documents\Visual Studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.DecodeImg.resources
+C:\Users\Fatima Bukhari\Documents\Visual Studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.EncodeForm.resources
+C:\Users\Fatima Bukhari\Documents\Visual Studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.Login.resources
+C:\Users\Fatima Bukhari\Documents\Visual Studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.KeyForm.resources
+C:\Users\Fatima Bukhari\Documents\Visual Studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.Properties.Resources.resources
+C:\Users\Fatima Bukhari\Documents\Visual Studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.SignUp.resources
+C:\Users\Fatima Bukhari\Documents\Visual Studio 2015\Projects\AoaProject\AoaProject\obj\Debug\AoaProject.csproj.GenerateResource.Cache
+C:\Users\Fatima Bukhari\Documents\Visual Studio 2015\Projects\AoaProject\AoaProject\bin\Debug\AoaProject.exe
+C:\Users\Fatima Bukhari\Documents\Visual Studio 2015\Projects\AoaProject\AoaProject\bin\Debug\AoaProject.pdb
